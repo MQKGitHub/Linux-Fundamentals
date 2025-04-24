@@ -29,7 +29,7 @@ Each room builds on the last, helping me develop essential terminal skills, lear
 ### 🛠️ Linux Fundamentals Part 3  
 - Coming soon...
 - Coming soon...
-- 
+
 ---
 
 Thanks for following along as I level up my Linux skills! 🐧💻
