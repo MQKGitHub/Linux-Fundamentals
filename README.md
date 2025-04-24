@@ -10,8 +10,8 @@ Each room builds on the last, helping me develop essential terminal skills, lear
 
 | Topic Name               | Status        | Link            |
 |--------------------------|----------------|------------------|
-| Linux Fundamentals Part 1 | 🔄 In Progress  | View Write-Up(Linux-Fundamentals-Part-1)    |
-| Linux Fundamentals Part 2 | ⏳ Not Started  | View Write-Up(Linux-Fundamentals-Part-2)    |
+| Linux Fundamentals Part 1 | ✅ Completed    | View Write-Up(https://github.com/MQKGitHub/Linux-Fundamentals-Part-1)    |
+| Linux Fundamentals Part 2 | 🔄 In Progress  | View Write-Up(Linux-Fundamentals-Part-2)    |
 | Linux Fundamentals Part 3 | ⏳ Not Started  | View Write-Up(Linux-Fundamentals-Part-3)    |
 
 ---
@@ -19,8 +19,8 @@ Each room builds on the last, helping me develop essential terminal skills, lear
 ### 🧠 Overview  
 
 ### 💻 Linux Fundamentals Part 1  
-- Coming soon...
-- Coming soon...
+- Learned how to use the Linux terminal to navigate directories, view files, and run basic commands.  
+- Explored the Linux file system structure and got hands-on with creating, moving, and deleting files and folders.
 
 ### 🔐 Linux Fundamentals Part 2  
 - Coming soon...
