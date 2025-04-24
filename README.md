@@ -10,9 +10,9 @@ Each room builds on the last, helping me develop essential terminal skills, lear
 
 | Topic Name               | Status        | Link            |
 |--------------------------|----------------|------------------|
-| Linux Fundamentals Part 1 | ✅ Completed    | View Write-Up(https://github.com/MQKGitHub/Linux-Fundamentals-Part-1)    |
-| Linux Fundamentals Part 2 | 🔄 In Progress  | View Write-Up(Linux-Fundamentals-Part-2)    |
-| Linux Fundamentals Part 3 | ⏳ Not Started  | View Write-Up(Linux-Fundamentals-Part-3)    |
+| Linux Fundamentals Part 1 | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Linux-Fundamentals-Part-1)    |
+| Linux Fundamentals Part 2 | 🔄 In Progress  | [View Write-Up](https://github.com/MQKGitHub/Linux-Fundamentals-Part-2)    |
+| Linux Fundamentals Part 3 | ⏳ Not Started  | [View Write-Up](https://github.com/MQKGitHub/Linux-Fundamentals-Part-3)    |
 
 ---
 
